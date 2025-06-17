@@ -88,7 +88,8 @@ Here are some ideas to get you started:
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190" 
+      height="200" 
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorcssilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
