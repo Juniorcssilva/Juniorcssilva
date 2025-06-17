@@ -76,18 +76,18 @@ Here are some ideas to get you started:
 
 ### 📊 Estatísticas
 
-<p><p align="center">
+<div style="display: flex; flex-direction: row;">
   <img 
+    src="https://github-readme-stats.vercel.app/api?username=Juniorcssilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Juniorcssilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="margin-right: 10px;" 
   />
+  
   <img 
-    alt="Top Langs" 
-    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorcssilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    alt="Top Langs" 
+    height="200"
   />
-</p>
+</div>
 
-
-</p>
