@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Junior Cesar Silva, tenho 25 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Estou iniciado na área de técnologia e inicialmente atuo como Front-End com foco em criar interfaces modernas, responsivas e funcionais. Trabalho com HTML, CSS, JavaScript e frameworks como React. Tenho conhecimento em Git e GitHub para versionamento de código, e utilizo o Vercel para deploy de aplicações. Também possuo familiaridade com Node.js, o que me permite entender melhor o funcionamento do back-end e integrar interfaces com APIs e serviços de forma mais eficiente. Estou sempre em busca de aprender novas tecnologias e evoluir como profissional para entregar projetos cada vez melhores.
+Me chamo Junior Silva, tenho 25 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Estou iniciado na área de técnologia com interesse inicialmente em programação Web, mais focado em aplicaçoes Front-End com foco em criar interfaces modernas, responsivas e funcionais. Trabalho com HTML, CSS, JavaScript e frameworks como React. Tenho conhecimento em Git e GitHub para versionamento de código, e utilizo o Vercel para deploy de aplicações. Também possuo familiaridade com Node.js, o que me permite entender um pouco sobre o funcionamento do back-end e integrar interfaces com APIs e serviços de forma mais eficiente. Estou sempre em busca de aprender novas tecnologias e evoluir como profissional para entregar projetos cada vez melhores.
 
 <!--
 **Juniorcssilva/Juniorcssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
