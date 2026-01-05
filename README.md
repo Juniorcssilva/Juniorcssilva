@@ -76,23 +76,25 @@ Here are some ideas to get you started:
 
 ### 📊 Estatísticas
 
- <table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=Juniorcssilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="Top Langs" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorcssilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+  <div>
+    <img 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=Juniorcssilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+  </div>
+
+  <div>
+    <img 
+      alt="Top Langs" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorcssilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    />
+  </div>
+
+</div>
+
 
 
