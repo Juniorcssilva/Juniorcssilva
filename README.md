@@ -4,16 +4,15 @@
 
 Meu nome é Junior Silva, tenho 26 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 
-Tenho interesse em programação Web, com foco em **Front-End**, criando interfaces modernas, responsivas e funcionais. Trabalho com:
+Comecei minha jornada no Front-End e venho expandindo meus conhecimentos para o Back-End, somando Python e SQL ao que já tinha. Hoje trabalho com:
 
-- **Linguagens:** HTML, CSS, JavaScript  
-- **Frameworks:** React  
-- **Versionamento:** Git, GitHub  
-- **Deploy:** Vercel  
-- **Back-End (básico):** Node.js, integração com APIs
-- **Estudos atuais:** Python — desenvolvendo pequenas aplicações e scripts para resolver problemas práticos
+Front-End: HTML, CSS, JavaScript, React
+Back-End: Node.js, Python, integração com APIs
+Banco de Dados: SQL
+Versionamento: Git, GitHub
+Deploy: Vercel
 
-Estou sempre buscando aprender novas tecnologias e evoluir como profissional, para entregar projetos cada vez melhores.
+Estou sempre em busca de aprender novas tecnologias e evoluir como profissional, para entregar projetos cada vez melhores.
 
 <!--
 **Juniorcssilva/Juniorcssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
