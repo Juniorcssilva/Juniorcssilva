@@ -7,9 +7,13 @@ Meu nome é Junior Silva, tenho 26 anos e sou natural do Rio Grande do Sul. Atua
 Comecei minha jornada no Front-End e venho expandindo meus conhecimentos para o Back-End, somando Python e SQL ao que já tinha. Hoje trabalho com:
 
 Front-End: HTML, CSS, JavaScript, React
+
 Back-End: Node.js, Python, integração com APIs
+
 Banco de Dados: SQL
+
 Versionamento: Git, GitHub
+
 Deploy: Vercel
 
 Estou sempre em busca de aprender novas tecnologias e evoluir como profissional, para entregar projetos cada vez melhores.
