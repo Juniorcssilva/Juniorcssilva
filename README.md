@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Junior Silva
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Back-End`**
 
 Meu nome é Junior Silva, tenho 26 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 
